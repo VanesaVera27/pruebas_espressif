@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "prueba_psram",
-    "project_version":    "1",
+    "project_version":    "7b5ab11-dirty",
     "project_path":       "E:/Tesis/espressif/prueba_psram",
     "idf_path":           "C:/Users/vanes/esp/v5.5.1/esp-idf",
     "build_dir":          "E:/Tesis/espressif/prueba_psram/build",
